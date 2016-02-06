@@ -12,7 +12,7 @@ Also used to make sure that models converted from other frameworks are correct.
 |---|:---:|:---:|:---:|:---:|
 |NIN          | 0(?) | __155.66__ | caffe | authors |
 |inception-v2 | 51.00(?) | 156.21 | ? | google |
-|inception-v3 | 78.53 | 536.67 | ? | google |
+|inception-v3 | __78.53__ | 536.67 | ? | google |
 |bvlc_alexnet | 54.61 | 172.29 | caffe | bvlc |
 |bn-alexnet   | 56.60 | 170.56 | torch | me  |
 |VGG_CNN_S    | 63.06 | 175.31 | caffe | VGG |
@@ -21,6 +21,6 @@ Also used to make sure that models converted from other frameworks are correct.
 |ResNet-18    | 69.31 | 208.53 | torch | facebook |
 |ResNet-34    | 72.94 | 363.11 | torch | facebook |
 |ResNet-50    | 75.76 | 439.36 | torch | facebook |
-|ResNet-101   | __77.34__ | 695.78 | torch | facebook |
+|ResNet-101   | 77.34 | 695.78 | torch | facebook |
 
-Time is given for Titan Black, CUDNN v4.
+Time is given for Titan Black.
