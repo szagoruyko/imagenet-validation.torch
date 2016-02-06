@@ -9,8 +9,8 @@ Also used to make sure that models converted from other frameworks are correct.
 # Evaluation
 
 |Model name| top-1 (central crop) accuracy | test time (s) | framework | trained by |
-|---|---|---|---|---|
-|NIN          | 0(?) | __155.66__ | caffe | paper auth |
+|---|:---:|:---:|:---:|:---:|
+|NIN          | 0(?) | __155.66__ | caffe | authors |
 |inception-v3 | 51.00(?) | 156.21 | ? | google |
 |bvlc_alexnet | 54.61 | 172.29 | caffe | bvlc |
 |bn-alexnet   | 56.60 | 170.56 | torch | me  |
