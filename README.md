@@ -11,7 +11,8 @@ Also used to make sure that models converted from other frameworks are correct.
 |Model name| top-1 (central crop) accuracy | test time (s) | framework | trained by |
 |---|:---:|:---:|:---:|:---:|
 |NIN          | 0(?) | __155.66__ | caffe | authors |
-|inception-v3 | 51.00(?) | 156.21 | ? | google |
+|inception-v2 | 51.00(?) | 156.21 | ? | google |
+|inception-v3 | 78.53 | 536.67 | ? | google |
 |bvlc_alexnet | 54.61 | 172.29 | caffe | bvlc |
 |bn-alexnet   | 56.60 | 170.56 | torch | me  |
 |VGG_CNN_S    | 63.06 | 175.31 | caffe | VGG |
