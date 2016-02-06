@@ -22,4 +22,4 @@ Also used to make sure that models converted from other frameworks are correct.
 |ResNet-50    | 75.76 | 439.36 | torch | facebook |
 |ResNet-101   | __77.34__ | 695.78 | torch | facebook |
 
-Time is given for Titan Black.
+Time is given for Titan Black, CUDNN v4.
