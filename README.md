@@ -24,3 +24,13 @@ Also used to make sure that models converted from other frameworks are correct.
 |ResNet-101   | 77.34 | 695.78 | torch | facebook |
 
 Time is given for Titan Black.
+
+# Networks
+
+1. __inception-v2__: https://github.com/soumith/inception.torch
+2. __inception-v3__: https://github.com/szagoruyko/inception-v3.torch
+3. __bvlc_alexnet__: https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet
+4. __bn_alexnet__: trained myself using https://github.com/soumith/imagenet-multiGPU.torch
+5. __VGG_CNN_S__: https://gist.github.com/ksimonyan/fd8800eeb36e276cd6f9#file-readme-md
+6. __VGG-16__: https://gist.github.com/ksimonyan/211839e770f7b538e2d8#file-readme-md
+7. __VGG-19__: https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md
