@@ -11,6 +11,7 @@ Also used to make sure that models converted from other frameworks are correct.
 |Model name| top-1 (central crop) accuracy | test time (s) | framework | trained by |
 |---|:---:|:---:|:---:|:---:|
 |NIN          | 0(?) | __155.66__ | caffe | authors |
+|bn-NIN       | 62.62 | 170.71 | torch | me |
 |inception-v2 | 51.00(?) | 156.21 | ? | google |
 |inception-v3 | __78.53__ | 536.67 | ? | google |
 |bvlc_alexnet | 54.61 | 172.29 | caffe | bvlc |
@@ -31,6 +32,7 @@ Time is given for Titan Black.
 2. __inception-v3__: https://github.com/szagoruyko/inception-v3.torch
 3. __bvlc_alexnet__: https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet
 4. __bn_alexnet__: https://gist.github.com/szagoruyko/dd032c529048492630fc
+5. __bn-nin__: https://gist.github.com/szagoruyko/0f5b4c5e2d2b18472854
 5. __VGG_CNN_S__: https://gist.github.com/ksimonyan/fd8800eeb36e276cd6f9#file-readme-md
 6. __VGG-16__: https://gist.github.com/ksimonyan/211839e770f7b538e2d8#file-readme-md
 7. __VGG-19__: https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md
