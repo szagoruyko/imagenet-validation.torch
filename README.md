@@ -6,6 +6,8 @@ easy testing of imagenet models.
 
 Also used to make sure that models converted from other frameworks are correct.
 
+This code was used in "An Analysis of Deep Neural Network Models for Practical Applications" report http://arxiv.org/abs/1605.07678
+
 # Evaluation
 
 |Model name| top-1 (central crop) accuracy | test time (s) | framework | trained by |
